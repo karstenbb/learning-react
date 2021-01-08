@@ -1,2 +1,2 @@
 # learning-react
-Jokse branching in school stuff
+lære branching in school stuff
